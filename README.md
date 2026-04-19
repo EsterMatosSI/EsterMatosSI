@@ -1,4 +1,4 @@
-## Hi there, I'm Ester Matos. 👋
+## Hi there, I'm EsterMatosSI. 👋
 
 <!--
 **EsterMatosSI/EsterMatosSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
