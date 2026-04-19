@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
--## Hi there, I'm Ester 👋
-
 - 🔭 Atualmente, estou focada em Segurança da Informação na UFC e no desenvolvimento de projetos de defesa cibernética.
 - 🌱 Estou aprimorando meus conhecimentos em SQL, Java e Microsoft Azure.
 - 👯 Como Campus Expert & Ambassador na DIO, busco colaborar em iniciativas que conectem estudantes e tecnologia.
@@ -19,19 +17,19 @@ Here are some ideas to get you started:
 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO-AQUI&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub de Ester" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EsterMatosSI-AQUI&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub de Ester" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO-AQUI&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas por Ester" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterMatosSI-AQUI&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas por Ester" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=SEU-NOME-DE-USUARIO-AQUI&theme=radical" alt="GitHub Streak de Ester" />
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=EsterMatosSI&theme=radical" alt="GitHub Streak de Ester" />
 </div>
 
 ---
